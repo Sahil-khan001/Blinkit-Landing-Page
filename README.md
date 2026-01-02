@@ -47,7 +47,7 @@ Responsiveness is handled using `media.css` to keep the main styles clean and or
 
 This project was created for learning and practice:
 
-- Understanding how real websites structure layouts  
+- Understanding how real websites structure layouts looks like
 - Improving HTML & CSS skills  
 - Practicing responsive design  
 - Cloning modern UI for portfolio development
